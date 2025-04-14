@@ -1,0 +1,3 @@
+ScenicQuest - Travel Experience Platform
+ScenicQuest is a user-friendly and visually engaging travel website designed to help users explore, plan, and book their perfect getaway. The homepage features a clean layout with a prominent header, interactive navigation, and call-to-action elements. Users can browse curated tour packages through destination cards featuring scenic images and location details. Hover effects and click-through functionality make the browsing experience dynamic and informative. Key pages include Home, Tours, Explore, Contact, and Login, providing seamless navigation across the platform. Each tour card links to a detailed information page, offering complete travel insights, itineraries, and booking options.
+
